@@ -6,6 +6,6 @@ Like Blockbuster, Rockbuster was proposed to be a retail chain video rental comp
 I uploaded all of Rockbuster's data into a RDBMS and used SQL to analyze data, answer specific queries, and put together a final presentation to create an overview  of the company and its inventory, conduct a market analysis, and give recommendations to improve future company profits.
 
 ## Technical skills
--> Use of Postgre SQL RDBSM and pgAdmin 4 and DBVisualizer apps.
+-> Use of Postgre SQL RDBSM, CTEs in queries, and pgAdmin 4 and DBVisualizer apps.
 
 -> Tableau to create graphics summarizing company inventory.
