@@ -7,4 +7,5 @@ I uploaded all of Rockbuster's data into a RDBMS and used SQL to analyze data, a
 
 ## Technical skills
 -> Use of Postgre SQL RDBSM and pgAdmin 4 and DBVisualizer apps.
+
 -> Tableau to create graphics summarizing company inventory.
